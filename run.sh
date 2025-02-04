@@ -13,5 +13,5 @@ export FLASK_APP=core/server.py
 
 
 # Run server
-flask run
+flask run --cert=adhoc
 
